@@ -10,6 +10,9 @@ def print_hi(name):
 
 
 # Press the green button in the gutter to run the script.
+#this code does not belong to any other open source programmer
+#void();
+
 if __name__ == '__main__':
     print_hi('PyCharm')
 
